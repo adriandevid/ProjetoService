@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ADqzy47RUk7GbG1rkwBBEgz724/jSdvJjupDWfVJpam3sbaz/JVaoeanr+2WIOc/ofEV0MLiKia6eKLEqC/2g==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\ProjetoService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
