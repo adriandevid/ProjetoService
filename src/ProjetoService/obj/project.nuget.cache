@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D9zhm2fIINr9Ma/hBWndQUaqRa/USmrQMOWWZ7Qq+rr9vVacKaqHKjEXeYBA//UwIcKLgzVjGT+AUyGFAvE5Vw==",
+  "dgSpecHash": "KvAIGS5pO8vY+Uh8m++pHoqjJiBOsmd/HbNcDPbLA693N35mPkKQHADaCFW+p2USosaUbz3e346m+bOyf4RCnQ==",
   "success": true,
   "projectFilePath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService\\ProjetoService.csproj",
   "expectedPackageFiles": [
@@ -59,6 +59,7 @@
     "C:\\Users\\adria\\.nuget\\packages\\steeltoe.discovery.abstractions\\3.2.1\\steeltoe.discovery.abstractions.3.2.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\steeltoe.discovery.clientbase\\3.2.1\\steeltoe.discovery.clientbase.3.2.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\steeltoe.discovery.clientcore\\3.2.1\\steeltoe.discovery.clientcore.3.2.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\steeltoe.discovery.eureka\\3.2.1\\steeltoe.discovery.eureka.3.2.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\steeltoe.discovery.eurekabase\\2.5.5\\steeltoe.discovery.eurekabase.2.5.5.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\steeltoe.extensions.configuration.abstractions\\3.2.1\\steeltoe.extensions.configuration.abstractions.3.2.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\steeltoe.extensions.configuration.cloudfoundrybase\\2.5.5\\steeltoe.extensions.configuration.cloudfoundrybase.2.5.5.nupkg.sha512",
@@ -69,6 +70,7 @@
     "C:\\Users\\adria\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.net.http.json\\3.2.1\\system.net.http.json.3.2.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.reflection.metadataloadcontext\\4.6.0\\system.reflection.metadataloadcontext.4.6.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",

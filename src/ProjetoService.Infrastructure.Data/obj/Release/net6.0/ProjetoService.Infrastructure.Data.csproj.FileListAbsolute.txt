@@ -1,0 +1,17 @@
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.deps.json
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.runtimeconfig.json
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.dll
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.pdb
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Domain.dll
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Domain.pdb
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.AssemblyInfo.cs
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.csproj.CopyComplete
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.dll
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\refint\ProjetoService.Infrastructure.Data.dll
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.pdb
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.genruntimeconfig.cache
+C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ref\ProjetoService.Infrastructure.Data.dll

@@ -367,6 +367,10 @@
               "target": "Package",
               "version": "[3.2.1, )"
             },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
             "Steeltoe.Discovery.EurekaBase": {
               "target": "Package",
               "version": "[2.5.5, )"

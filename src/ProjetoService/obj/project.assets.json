@@ -789,6 +789,21 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Steeltoe.Discovery.Eureka/3.2.1": {
+        "type": "package",
+        "dependencies": {
+          "Steeltoe.Common.Http": "3.2.1",
+          "Steeltoe.Connector.Abstractions": "3.2.1",
+          "Steeltoe.Discovery.ClientBase": "3.2.1",
+          "System.Net.Http.Json": "3.2.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Steeltoe.Discovery.Eureka.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Steeltoe.Discovery.Eureka.dll": {}
+        }
+      },
       "Steeltoe.Discovery.EurekaBase/2.5.5": {
         "type": "package",
         "dependencies": {
@@ -934,6 +949,18 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "System.Net.Http.Json/3.2.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Text.Json": "4.7.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Net.Http.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Net.Http.Json.dll": {}
         }
       },
       "System.Reflection.MetadataLoadContext/4.6.0": {
@@ -2177,6 +2204,20 @@
         "steeltoe.discovery.clientcore.nuspec"
       ]
     },
+    "Steeltoe.Discovery.Eureka/3.2.1": {
+      "sha512": "iuDlgx9jWK4X5zrJEzWdBskzJ3wuRfTKnkL5z5IwawaBIWWgqhFreZBq4cV7dYBk/ZhQLPSFOZcfOGL5c/9l5w==",
+      "type": "package",
+      "path": "steeltoe.discovery.eureka/3.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/netstandard2.0/Steeltoe.Discovery.Eureka.dll",
+        "lib/netstandard2.0/Steeltoe.Discovery.Eureka.xml",
+        "steeltoe.discovery.eureka.3.2.1.nupkg.sha512",
+        "steeltoe.discovery.eureka.nuspec"
+      ]
+    },
     "Steeltoe.Discovery.EurekaBase/2.5.5": {
       "sha512": "wkqNL+1dwxBPp9fD97PcQRun4vovJu+4o8PJG7vSj9V4s5SLqM2gRzsvoa0O6Yz2HAt+tfRQpmlTH0Q+OGW9vw==",
       "type": "package",
@@ -2381,6 +2422,26 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "System.Net.Http.Json/3.2.1": {
+      "sha512": "KkevRTwX9uMYxuxG2/wSql8FIAItB89XT36zoh6hraQkFhf2yjotDswpAKzeuaEuMhAia6c50oZMkP1PJoYufQ==",
+      "type": "package",
+      "path": "system.net.http.json/3.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Net.Http.Json.dll",
+        "lib/net461/System.Net.Http.Json.xml",
+        "lib/netstandard2.0/System.Net.Http.Json.dll",
+        "lib/netstandard2.0/System.Net.Http.Json.xml",
+        "system.net.http.json.3.2.1.nupkg.sha512",
+        "system.net.http.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.Reflection.MetadataLoadContext/4.6.0": {
       "sha512": "TezS9fEP9kzL5U6GYHZY6I/tqz6qiHKNgAzuT6JJXJXuP+wWvNLN03gPxBK2uLP0LrLg/QXEAF++lxBNBSYILA==",
       "type": "package",
@@ -2538,6 +2599,7 @@
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.7",
       "ProjetoService.Infrastructure.IOC >= 1.0.0",
       "Steeltoe.Discovery.ClientCore >= 3.2.1",
+      "Steeltoe.Discovery.Eureka >= 3.2.1",
       "Steeltoe.Discovery.EurekaBase >= 2.5.5",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -2611,6 +2673,10 @@
             "version": "[6.0.7, )"
           },
           "Steeltoe.Discovery.ClientCore": {
+            "target": "Package",
+            "version": "[3.2.1, )"
+          },
+          "Steeltoe.Discovery.Eureka": {
             "target": "Package",
             "version": "[3.2.1, )"
           },
