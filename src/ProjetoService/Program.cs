@@ -32,8 +32,6 @@ builder.Services.AddSingleton<IConsulClient, ConsulClient>(provider =>
         config.Address = new Uri(consulAddress);
     }));
 
-//builder.Services.AddDiscoveryClient(builder.Configuration);
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -43,7 +41,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseSwagger();
 app.UseSwaggerUI();
-//app.UseDiscoveryClient();
 
 app.UseHttpsRedirection();
 
