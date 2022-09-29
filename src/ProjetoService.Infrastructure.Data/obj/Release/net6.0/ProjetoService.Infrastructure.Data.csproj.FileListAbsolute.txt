@@ -15,20 +15,3 @@ C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.
 C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.pdb
 C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.genruntimeconfig.cache
 C:\Sistemas\KanbanMicro\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ref\ProjetoService.Infrastructure.Data.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.deps.json
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.runtimeconfig.json
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Infrastructure.Data.pdb
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Domain.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\bin\Release\net6.0\ProjetoService.Domain.pdb
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.csproj.AssemblyReference.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.AssemblyInfoInputs.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.AssemblyInfo.cs
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.csproj.CoreCompileInputs.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.csproj.CopyComplete
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\refint\ProjetoService.Infrastructure.Data.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.pdb
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ProjetoService.Infrastructure.Data.genruntimeconfig.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Infrastructure.Data\obj\Release\net6.0\ref\ProjetoService.Infrastructure.Data.dll

@@ -15,20 +15,3 @@ C:\Sistemas\KanbanMicro\src\ProjetoService.Application\obj\Release\net6.0\Projet
 C:\Sistemas\KanbanMicro\src\ProjetoService.Application\obj\Release\net6.0\refint\ProjetoService.Application.dll
 C:\Sistemas\KanbanMicro\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.pdb
 C:\Sistemas\KanbanMicro\src\ProjetoService.Application\obj\Release\net6.0\ref\ProjetoService.Application.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\bin\Release\net6.0\ProjetoService.Application.deps.json
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\bin\Release\net6.0\ProjetoService.Application.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\bin\Release\net6.0\ProjetoService.Application.pdb
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\bin\Release\net6.0\ProjetoService.Domain.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\bin\Release\net6.0\ProjetoService.Domain.pdb
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.csproj.AssemblyReference.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.MessageResources.MessageResources.resources
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.csproj.GenerateResource.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.AssemblyInfoInputs.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.AssemblyInfo.cs
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.csproj.CoreCompileInputs.cache
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.csproj.CopyComplete
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\refint\ProjetoService.Application.dll
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ProjetoService.Application.pdb
-C:\Meus sistemas\ProjetoService\src\ProjetoService.Application\obj\Release\net6.0\ref\ProjetoService.Application.dll
