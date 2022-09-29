@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ProjetoService/1.0.0": {
         "dependencies": {
+          "Consul": "1.6.10.7",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "6.0.9",
           "Newtonsoft.Json": "13.0.1",
           "Newtonsoft.Json.Bson": "1.0.2",
@@ -31,6 +32,18 @@
           "lib/netstandard2.1/AutoMapper.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.0.1.0"
+          }
+        }
+      },
+      "Consul/1.6.10.7": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {
+            "assemblyVersion": "1.6.10.7",
+            "fileVersion": "1.6.10.7"
           }
         }
       },
@@ -707,6 +720,13 @@
       "sha512": "sha512-WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
       "path": "automapper/11.0.1",
       "hashPath": "automapper.11.0.1.nupkg.sha512"
+    },
+    "Consul/1.6.10.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IbMOIORJGstZobJUPoav/9MHg1tA5cyNwsk0BdC7N1EY77Z8TUxCbD59eTZFuQneJxZXto6FE12QLKeiZZvePQ==",
+      "path": "consul/1.6.10.7",
+      "hashPath": "consul.1.6.10.7.nupkg.sha512"
     },
     "FluentValidation/11.2.2": {
       "type": "package",

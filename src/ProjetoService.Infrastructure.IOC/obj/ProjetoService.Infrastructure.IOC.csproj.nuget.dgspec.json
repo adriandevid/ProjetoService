@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj": {}
+    "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\ProjetoService.Application.csproj": {
+    "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Application\\ProjetoService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\ProjetoService.Application.csproj",
+        "projectUniqueName": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Application\\ProjetoService.Application.csproj",
         "projectName": "ProjetoService.Application",
-        "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\ProjetoService.Application.csproj",
-        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\obj\\",
+        "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Application\\ProjetoService.Application.csproj",
+        "packagesPath": "C:\\Users\\AdrianMS\\.nuget\\packages\\",
+        "outputPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AdrianMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://app-prod-nuget.seduc.se.gov.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj": {
-                "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj"
+              "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj": {
+                "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj"
               }
             }
           }
@@ -76,25 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj": {
+    "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj",
+        "projectUniqueName": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj",
         "projectName": "ProjetoService.Domain",
-        "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj",
-        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\obj\\",
+        "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj",
+        "packagesPath": "C:\\Users\\AdrianMS\\.nuget\\packages\\",
+        "outputPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AdrianMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,6 +95,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://app-prod-nuget.seduc.se.gov.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,25 +128,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj": {
+    "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj",
         "projectName": "ProjetoService.Infrastructure.Data",
-        "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\AdrianMS\\.nuget\\packages\\",
+        "outputPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AdrianMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,14 +150,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://app-prod-nuget.seduc.se.gov.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj": {
-                "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj"
+              "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj": {
+                "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj"
               }
             }
           }
@@ -212,25 +203,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj": {
+    "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj",
+        "projectUniqueName": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj",
         "projectName": "ProjetoService.Infrastructure.IOC",
-        "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj",
-        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\obj\\",
+        "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj",
+        "packagesPath": "C:\\Users\\AdrianMS\\.nuget\\packages\\",
+        "outputPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AdrianMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,17 +225,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://app-prod-nuget.seduc.se.gov.br/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\ProjetoService.Application.csproj": {
-                "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Application\\ProjetoService.Application.csproj"
+              "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Application\\ProjetoService.Application.csproj": {
+                "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Application\\ProjetoService.Application.csproj"
               },
-              "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj"
+              "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.Data\\ProjetoService.Infrastructure.Data.csproj"
               }
             }
           }
@@ -295,7 +283,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

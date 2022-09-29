@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pXZ6iGV9U5C6pPEwr5ZuC72n5vq0QrU7TpEKCgMJKZi0/Z2GmXOZrZN46yQXVng1i9C77tlNLZozBwqCcDIBHg==",
+  "dgSpecHash": "9iNDN+2s8Daw+Rg9DeV7fR1B15T8dHi5c3IxzU6KPedwfFa8TA7/1wn+h521nlRtgNO4KzFvJCSzau044kzahw==",
   "success": true,
-  "projectFilePath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj",
+  "projectFilePath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Domain\\ProjetoService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

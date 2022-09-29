@@ -14,6 +14,19 @@
           "lib/netstandard2.1/AutoMapper.dll": {}
         }
       },
+      "Consul/1.6.10.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Consul.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {}
+        }
+      },
       "FluentValidation/11.2.2": {
         "type": "package",
         "compile": {
@@ -1096,6 +1109,19 @@
         "icon.png",
         "lib/netstandard2.1/AutoMapper.dll",
         "lib/netstandard2.1/AutoMapper.xml"
+      ]
+    },
+    "Consul/1.6.10.7": {
+      "sha512": "IbMOIORJGstZobJUPoav/9MHg1tA5cyNwsk0BdC7N1EY77Z8TUxCbD59eTZFuQneJxZXto6FE12QLKeiZZvePQ==",
+      "type": "package",
+      "path": "consul/1.6.10.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consul.1.6.10.7.nupkg.sha512",
+        "consul.nuspec",
+        "lib/net461/Consul.dll",
+        "lib/netstandard2.0/Consul.dll"
       ]
     },
     "FluentValidation/11.2.2": {
@@ -2592,6 +2618,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Consul >= 1.6.10.7",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 6.0.9",
       "Newtonsoft.Json >= 13.0.1",
       "Newtonsoft.Json.Bson >= 1.0.2",
@@ -2605,24 +2632,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adria\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\AdrianMS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService\\ProjetoService.csproj",
+      "projectUniqueName": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService\\ProjetoService.csproj",
       "projectName": "ProjetoService",
-      "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService\\ProjetoService.csproj",
-      "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-      "outputPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService\\obj\\",
+      "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService\\ProjetoService.csproj",
+      "packagesPath": "C:\\Users\\AdrianMS\\.nuget\\packages\\",
+      "outputPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\AdrianMS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2630,14 +2652,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://app-prod-nuget.seduc.se.gov.br/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj": {
-              "projectPath": "C:\\Sistemas\\KanbanMicro\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj"
+            "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj": {
+              "projectPath": "C:\\Meus sistemas\\ProjetoService\\src\\ProjetoService.Infrastructure.IOC\\ProjetoService.Infrastructure.IOC.csproj"
             }
           }
         }
@@ -2652,6 +2675,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Consul": {
+            "target": "Package",
+            "version": "[1.6.10.7, )"
+          },
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
             "version": "[6.0.9, )"
@@ -2707,7 +2734,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

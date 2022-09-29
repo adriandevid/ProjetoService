@@ -10,3 +10,15 @@ C:\Sistemas\KanbanMicro\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoServ
 C:\Sistemas\KanbanMicro\src\ProjetoService.Domain\obj\Release\net6.0\refint\ProjetoService.Domain.dll
 C:\Sistemas\KanbanMicro\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.pdb
 C:\Sistemas\KanbanMicro\src\ProjetoService.Domain\obj\Release\net6.0\ref\ProjetoService.Domain.dll
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\bin\Release\net6.0\ProjetoService.Domain.deps.json
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\bin\Release\net6.0\ProjetoService.Domain.dll
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\bin\Release\net6.0\ProjetoService.Domain.pdb
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.csproj.AssemblyReference.cache
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.AssemblyInfoInputs.cache
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.AssemblyInfo.cs
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.csproj.CoreCompileInputs.cache
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.dll
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\refint\ProjetoService.Domain.dll
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ProjetoService.Domain.pdb
+C:\Meus sistemas\ProjetoService\src\ProjetoService.Domain\obj\Release\net6.0\ref\ProjetoService.Domain.dll
