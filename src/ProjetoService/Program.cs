@@ -34,12 +34,11 @@ builder.Services.AddSingleton<IConsulClient, ConsulClient>(provider =>
 
 //builder.Services.AddDiscoveryClient(builder.Configuration);
 
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-    //   
+    //Development Code   
 }
 
 app.UseSwagger();
