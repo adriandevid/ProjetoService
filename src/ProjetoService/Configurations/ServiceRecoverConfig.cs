@@ -48,7 +48,7 @@ namespace ProjetoService.Configurations
             {
                 ServiceID = _projetoConfiguration.ServiceId,
                 Name = _projetoConfiguration.ServiceId,
-                HTTP = $"{_projetoConfiguration.Url}/health",
+                HTTP = $"{_projetoConfiguration.Url}health",
                 TLSSkipVerify = false,
                 Method = "GET",
                 Header = headerProperties,
