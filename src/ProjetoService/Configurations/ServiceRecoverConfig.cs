@@ -47,7 +47,7 @@ namespace ProjetoService.Configurations
             await _consulClient.Agent.CheckRegister(new AgentCheckRegistration
             {
                 ServiceID = _projetoConfiguration.ServiceId,
-                Name = "Service Request Heart Test beat",
+                Name = _projetoConfiguration.ServiceId,
                 HTTP = $"{_projetoConfiguration.Url}/health",
                 TLSSkipVerify = false,
                 Method = "GET",
