@@ -27,6 +27,9 @@ namespace ProjetoService.Configurations
         public async Task StartAsync(CancellationToken cancellationToken)
         {
             var menuUri = new Uri(_projetoConfiguration.Url);
+            
+            var headerProperties = new Dictionary<string, List<string>>();
+            headerProperties.Add("Content-Type", new List<string> { "application/json" });
 
             var serviceRegistration = new AgentServiceRegistration()
             {
@@ -34,13 +37,19 @@ namespace ProjetoService.Configurations
                 Name = _projetoConfiguration.ServiceName,
                 Port = menuUri.Port,
                 ID = _projetoConfiguration.ServiceId,
-                Tags = new[] { _projetoConfiguration.ServiceName }
+                Tags = new[] { _projetoConfiguration.ServiceName },
+                Check = new AgentServiceCheck()
+                {
+                    Name = _projetoConfiguration.ServiceId,
+                    HTTP = $"{_projetoConfiguration.Url}health",
+                    TLSSkipVerify = false,
+                    Method = "GET",
+                    Header = headerProperties,
+                    Interval = TimeSpan.FromSeconds(10),
+                    Timeout = TimeSpan.FromSeconds(1),
+                }
             };
 
-            var headerProperties = new Dictionary<string, List<string>>();
-            headerProperties.Add("Content-Type", new List<string> { "application/json" });
-
-            
             await _consulClient.Agent.ServiceDeregister(_projetoConfiguration.ServiceId, cancellationToken);
             await _consulClient.Agent.ServiceRegister(serviceRegistration, cancellationToken);
 
