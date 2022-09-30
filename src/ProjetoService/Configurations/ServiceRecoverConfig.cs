@@ -40,12 +40,13 @@ namespace ProjetoService.Configurations
                 Tags = new[] { _projetoConfiguration.ServiceName },
                 Check = new AgentServiceCheck()
                 {
+                    Name = "Validação de saúde do Serviço!",
                     HTTP = $"{_projetoConfiguration.Url}health",
                     TLSSkipVerify = false,
                     Method = "GET",
                     Header = headerProperties,
-                    Interval = TimeSpan.FromSeconds(2),
-                    Timeout = TimeSpan.FromSeconds(2),
+                    Interval = TimeSpan.FromSeconds(10),
+                    Timeout = TimeSpan.FromSeconds(1),
                 }
             };
 
