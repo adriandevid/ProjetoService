@@ -45,8 +45,7 @@ namespace ProjetoService.Configurations
                     TLSSkipVerify = false,
                     Method = "GET",
                     Header = headerProperties,
-                    Interval = TimeSpan.FromSeconds(10),
-                    Timeout = TimeSpan.FromSeconds(1),
+                    Interval = TimeSpan.FromSeconds(2)
                 }
             };
 
@@ -61,8 +60,7 @@ namespace ProjetoService.Configurations
                 TLSSkipVerify = false,
                 Method = "GET",
                 Header = headerProperties,
-                Interval = TimeSpan.FromSeconds(10),
-                Timeout = TimeSpan.FromSeconds(1),
+                Interval = TimeSpan.FromSeconds(2)
             });
 
             await _consulClient.Agent.Checks(cancellationToken);
